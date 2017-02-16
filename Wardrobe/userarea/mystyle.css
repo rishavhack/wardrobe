@@ -1,0 +1,41 @@
+body{
+    margin: 0 auto 0 auto;
+}
+
+header{
+    width: 100%;
+    border :1px dotted black;
+    text-align: center;
+    background-color: blue;
+}
+h3{
+
+    display: inline-block;
+    font-style:italic ;
+    color: white;
+
+}
+#bt{
+    margin-top: 10px;
+    float: right;
+    font-size: 30px;
+}
+
+.categories{
+    margin-top: 10px;
+    text-align: center;
+    font-size: large;
+    display: none;
+
+
+}
+.categories ul{
+    list-style: none;
+}
+.categories ul a{
+    text-decoration: none;
+}
+
+header{
+	margin-bottom:10px;
+}

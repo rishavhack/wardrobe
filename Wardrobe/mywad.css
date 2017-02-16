@@ -1,0 +1,12 @@
+
+.container{
+    margin :0 auto 0 auto;
+}
+.page-header{
+    border :2px solid blue;
+    background-color: blue;
+    border-radius: 30px;
+    font-style: normal;
+    color: white;
+    text-align: center;
+}
